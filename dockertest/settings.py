@@ -25,7 +25,7 @@ SECRET_KEY = 'ls=6d=$r(b2)f3w-ht$j54*1_#(&pb+d=g#629qv(6m=wh9)ll'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '0.0.0.0']
+ALLOWED_HOSTS = ['localhost', '0.0.0.0', 'https://anof.salalem.com/']
 
 
 # Application definition
